@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://youtu.be/GKHazA8e2oQ">
-    <img alt="Global" src="https://i.ibb.co/GQ7DnnQ9/global.jpg">
+    <img alt="QUEEN-SIA" src="https://i.ibb.co/GQ7DnnQ9/global.jpg">
   </a>
 </p>
 
