@@ -16,7 +16,7 @@
 ## Information
 
 <div align="center">
-<a href="https://github.com/GlobalTechInfo/GLOBAL-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/GLOBAL-XMD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/QUEENSIA/QUEEN-SIA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/GLOBAL-XMD?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-XMD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/GLOBAL-XMD?label=Stars&color=yellow&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-XMD/issues"><img title="Issues" src="https://img.shields.io/github/issues/GlobalTechInfo/GLOBAL-XMD?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-XMD/repo-size"><img title="RepoSize" src="https://img.shields.io/github/repo-size/GlobalTechInfo/GLOBAL-XMD?label=RepoSize&color=success&style=flat-square"></a>
