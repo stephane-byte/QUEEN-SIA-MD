@@ -144,7 +144,7 @@ curl -fsSl https://deb.nodesource.com/setup_20.x | bash - && apt -y install node
 git clone https://github.com/<your gitHub Username>/GLOBAL-XMD
 ```
 ```
-cd GLOBAL-XMD
+cd 
 npm install
 ```
 ```
@@ -169,29 +169,9 @@ node index --pairing-code
 License: [Apache License](http://www.apache.org/licenses/)
 
 ## Support Me
-- [Subscribe](https://youtube.com/@GlobalTechInfo)
+- [Subscribe](https://youtube.com/@queensia-254?si=GJW7mGvjBjKssGmS)
 
 ----
 
-## Disclaimer
-
-- This is an independent project not affiliated with WhatsApp Inc.
-- Account bans may occur with misuse (only 1 unban allowed)
-- Use at your own risk - no liability for bans/misuse
 
 
-## Terms of Use
-
-- Strictly NOT FOR SALE
-- No unauthorized copying/distribution
-- Credit must be given when using/modifying
-
-----
-----
-## Credits
-
-| [![Nazedev](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![Qasim Ali](https://github.com/GlobalTechInfo.png?size=100)](https://github.com/GlobalTechInfo) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
-| --- | --- | --- |
-| [NazeDev](https://github.com/nazedev) | [Qasim Ali](https://github.com/GlobalTechInfo) |[WhiskeySockets](https://github.com/WhiskeySockets) |
-
-----
