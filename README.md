@@ -7,7 +7,7 @@
 ----
 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=QUEEN+SIA+V1+WHATSAPP+BOT;MULTI-DEVICE;POWERED+BY+TYLORWHITE+AND+SNAKEEYES;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=QUEEN+SIA+V1+WHATSAPP+BOT;MULTI-DEVICE;POWERED+BY+TYLORWHITE+AND+SNAKEYES;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
 ----
