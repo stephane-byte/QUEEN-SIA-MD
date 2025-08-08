@@ -41,9 +41,9 @@
 <h2 align="center">  NOTE
 </h2>
 
-- **Session ID Isn't Needed, Bot Requires Only Environment Variable Named BOT_NUMBER.**
+- **To deploy QUEEN SIA V1 GOT TO SETTINGS.JS AND ADD YOUR WHATSAPP NUMBER ON THE SPACE PROVIDED INFRONT OF BOT NUMBER PART**
 - **After Adding Your Number In .env Simply Deploy The Bot And It Will Show You A Pairing Code At The End Of Deployment**
-- **Just Link Your WhatsApp With That Code And Start Using Bot.**
+- **Just Link Your WhatsApp With That Code And Start Using QUEEN SIA V1.**
 
 ----
 
