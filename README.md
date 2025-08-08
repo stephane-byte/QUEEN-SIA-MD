@@ -18,8 +18,8 @@
 <div align="center">
 <a href="https://github.com/QUEENSIA/QUEEN-SIA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/QUEENSIA/QUEEN-SIA-MD?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/QUEENSIA/QUEEN-SIA-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/QUEENSIA/QUEEN-SIA-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-XMD/issues"><img title="Issues" src="https://img.shields.io/github/issues/GlobalTechInfo/GLOBAL-XMD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-XMD/repo-size"><img title="RepoSize" src="https://img.shields.io/github/repo-size/GlobalTechInfo/GLOBAL-XMD?label=RepoSize&color=success&style=flat-square"></a>
+<a href="https://github.com/QUEENSIA/QUEEN-SIA-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/QUEENSIA/QUEEN-SIA-MD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/QUEENSIA/QUEEN-SIA-MD/repo-size"><img title="RepoSize" src="https://img.shields.io/github/repo-size/QUEENSIA/QUEEN-SIA-MD?label=RepoSize&color=success&style=flat-square"></a>
   <a href="https://discord.gg/fZ7MVJM9sq">
   <img title="Join our Discord" src="https://img.shields.io/discord/1391898062494105752?label=Discord&logo=discord&logoColor=white&style=flat-square&color=7289DA" alt="Discord">
 </a>
