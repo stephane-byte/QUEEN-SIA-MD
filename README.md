@@ -111,7 +111,7 @@
 
 ```bash
 git clone https://github.com/GlobalTechInfo/GLOBAL-XMD
-cd GLOBAL-XMD
+cd QUEEN-SIA-MD
 npm install
 node index --pairing-code
 ```
@@ -141,10 +141,10 @@ apt -y remove nodejs
 curl -fsSl https://deb.nodesource.com/setup_20.x | bash - && apt -y install nodejs
 ```
 ```
-git clone https://github.com/<your gitHub Username>/GLOBAL-XMD
+git clone    https://github.com/QUEENSIA/QUEEN-SIA-MD
 ```
 ```
-cd 
+cd QUEEN-SIA-MD
 npm install
 ```
 ```
