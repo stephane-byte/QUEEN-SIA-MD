@@ -141,7 +141,7 @@ apt -y remove nodejs
 curl -fsSl https://deb.nodesource.com/setup_20.x | bash - && apt -y install nodejs
 ```
 ```
-git clone    https://github.com/QUEENSIA/QUEEN-SIA-MD
+git clone https://github.com/QUEENSIA/QUEEN-SIA-MD
 ```
 ```
 cd QUEEN-SIA-MD
