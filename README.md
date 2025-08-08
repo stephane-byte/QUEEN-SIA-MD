@@ -30,14 +30,6 @@
 
 ----
 
-## Table of Contents
-- [Information](#information)
-- [Deployment](#deployment)
-- [Connection](#connection)
-- [Features](#features)
-- [Disclaimer](#disclaimer)
-- [Credits](#credits)
-
 <h2 align="center">  NOTE
 </h2>
 
@@ -57,7 +49,7 @@
     <tr>
       <td>Koyeb</td>
       <td>
-        <a href="https://app.koyeb.com/services/deploy?type=git&repository=GlobalTechInfo/GLOBAL-XMD&ports=3000">
+        <a href="https://app.koyeb.com/services/deploy?type=git&repository=QUEENSIA/QUEEN-SIA-MD&ports=3000">
           <img src="https://img.shields.io/badge/Deploy_to-Koyeb-blueviolet?style=for-the-badge&logo=koyeb&logoColor=white" alt="Deploy to Koyeb">
         </a>
       </td>
@@ -73,7 +65,7 @@
     <tr>
       <td>Replit</td>
       <td>
-        <a href="https://repl.it/github/GlobalTechInfo/GLOBAL-XMD">
+        <a href="https://repl.it/github/QUEENSIA/QUEEN-SIA-MD">
           <img src="https://img.shields.io/badge/Deploy_to-Replit-orange?style=for-the-badge&logo=replit&logoColor=white" alt="Deploy to Replit">
         </a>
       </td>
@@ -110,7 +102,7 @@
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/GlobalTechInfo/GLOBAL-XMD
+git clone https://github.com/QUEENSIA/QUEEN-SIA-MD
 cd QUEEN-SIA-MD
 npm install
 node index --pairing-code
