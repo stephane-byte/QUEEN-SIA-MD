@@ -12,12 +12,11 @@
 
 ----
 ----
-
-> **DOWNLOAD BOT ZIP**
+ **DOWNLOAD BOT ZIP**
 
 _Download Bot Zip file From the button Bellow_
 <p align="left">
-    <a href="https://codeload.github.com//zip/refs/heads/main/QUEENSIA/QUEEN-SIA-MD" target="_blank">
+    <a href="https://codeload.github.com/QUEENSIA/QUEEN-SIA-MD/zip/refs/heads/main" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/Download Zip-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
     </a>
 </p>
